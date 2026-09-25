@@ -66,3 +66,15 @@ section{
     width: 100%;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
+.portfolio-items :hover{
+    transition-property: scale(1.05);
+}
+#footer{
+    background-color: #222;
+    text-emphasis-color: #fff;
+    padding: 2em;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
